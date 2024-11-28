@@ -1,0 +1,6 @@
+## Interface: 100000
+## Title: |cff3eddb0Chat Filter|r
+## Notes: 
+
+
+code.lua
